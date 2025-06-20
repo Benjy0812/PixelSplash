@@ -2,10 +2,12 @@
 
 A growing collection of beautiful, high-quality wallpapers sourced from [Unsplash](https://unsplash.com). Organized by theme and curated for your screen's delight!
 
+**Note:** All wallpaper *names* and folder organization are created by me, not the original photographers or artists.
+
 ## 📁 Folder Structure
 
-- `wallpapers/` – Medium-sized wallpapers (1920x1080)
-- `originals/` – Full-resolution versions (e.g. 5616x3744)
+- `wallpapers/` – Medium-sized wallpapers (1920x1080)  
+- `originals/` – Full-resolution versions (e.g. 5616x3744)  
 - `phone/` – Optimized for mobile devices (1080x1920)
 
 ## 📐 Need a Different Size?
