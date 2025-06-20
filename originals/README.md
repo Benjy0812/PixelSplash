@@ -1,9 +1,7 @@
-# Originals 📷
+# 📷 Original Images
 
-This folder contains the **original high-resolution wallpapers** as sourced from Unsplash or other free image providers.
+High-resolution original wallpapers from Unsplash.
 
-Please **do not edit or resize** these images manually.
+Used to generate the resized versions in `/phone` and `/desktop`.
 
-When you add new images here, the automated workflow will create resized versions for phone and desktop in their respective folders.
-
-Remember to credit the original photographers! Check the root `CREDITS.md` for details.
+Check `CREDITS.md` for photographer credits.

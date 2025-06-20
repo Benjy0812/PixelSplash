@@ -1,7 +1,7 @@
-# Phone Wallpapers 📱
+# 📱 Phone Wallpapers
 
-This folder contains wallpapers resized for **phone screens**, typically 1080×1920 pixels.
+1080x1920 wallpapers optimized for phones.
 
-These images are generated automatically from the originals to fit mobile devices perfectly.
+Resized from originals in the `/originals` folder.
 
-If you need help with resizing or want a different size, please contact me!
+Need help fitting your device? Just reach out! 🙌
