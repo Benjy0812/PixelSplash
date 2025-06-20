@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'originals/**'
+  workflow_dispatch:
 
 jobs:
   resize-images:
