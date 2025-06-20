@@ -2,8 +2,6 @@ name: Resize Wallpapers
 
 on:
   push:
-    paths:
-      - 'originals/**'
 
 jobs:
   resize-images:
