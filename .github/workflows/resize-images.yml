@@ -53,10 +53,15 @@ jobs:
                     print(f"Saved {new_filename} to {output_folder}")
         EOF
 
-    - name: Commit and push resized images
+    - name: Commit resized images
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add phone desktop
         git commit -m "Add resized wallpapers for phone and desktop" || echo "No changes to commit"
-        git push
+
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
