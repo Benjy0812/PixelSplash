@@ -6,5 +6,6 @@ All images in this folder are from [Unsplash](https://unsplash.com) [Pexels](htt
 - Desert-Light/Dark.jpg – Photo by [Mike Yukhtenko](https://unsplash.com/@yamaicle)
 - Frozen-Firelight.jpg – Photo by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki)
 - Calm-Sky.jpg - photo by [donaldtong](https://www.pexels.com/@donaldtong94/)
+- Cartoony-mountain.jpg - photo by [Daniel Leone](https://unsplash.com/@danielleone/)
 
 Thanks to these amazing creators for sharing their work! 🙏✨
